@@ -9,7 +9,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies & Frameworks](#technologies--frameworks)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Team Members](#team-members)
 - [Contributions](#contributions)
@@ -17,6 +16,24 @@
 - [Data Design](#data-design)
 - [Conclusions](#conclusions)
 - [Contact](#contact)
+
+---
+
+## Project Deliverables
+
+1. **Technical Presentation:**  
+   [View Presentation](https://drive.google.com/file/d/1tRCHFX7j1RB0c2HsIGri8V7MsihUtOKu/view?usp=sharing)
+
+2. **Final Class Diagram:**  
+   ![Class Diagram](ClassDiagramHighRes.png)
+
+3. **Phase 3 Buyer and Seller functionality video**:[Link](https://drive.google.com/file/d/1F_Zt7YwssbyvFdn92bBpJcoo_V74tTTN/view?usp=drive_link)
+4. **Phase 3 Admin functionality video**: [Link](https://drive.google.com/file/d/1IOW03dtCywxqDZhygVnT0qdQAAjtiSQn/view?usp=sharing)
+
+5. **Final Technical Presentation:**
+   [Link](https://drive.google.com/file/d/1tRCHFX7j1RB0c2HsIGri8V7MsihUtOKu/view?usp=sharing)
+
+
 
 ---
 
@@ -68,7 +85,7 @@ SunDevil Bookstore is a comprehensive online platform designed to facilitate the
 - **JavaFX:** Framework for building the graphical user interface.
 - **SQLite:** Lightweight database for data storage and management.
 - **Maven:** Build automation and dependency management tool.
-
+- **Jira**: Project management and issue tracking tool used for team collaboration, task assignment, and progress monitoring.
 ---
 ## Usage
 
@@ -106,7 +123,7 @@ Upon launching the application, users can:
 
 ### Development Team Contributions
 
-- **James Hu, Jaya Adithya Pavuluri, Sahil Sinha:** Developed the GUI walkthrough and project overview sections.
+- **James Hu, Jaya Adithya Pavuluri(SCRUM Master), Sahil Sinha(Team Leader):** Developed the GUI walkthrough and project overview sections.
 - **Shubham Khalkho:** Led the GUI walkthrough development.
 - **Vineet Yerramsett:** Managed the project overview documentation.
 
@@ -205,15 +222,7 @@ For any queries or contributions, please reach out to the team members via their
 - **Shubham Khalkho:** [Shubhoom123](https://github.com/Shubhoom123)
 - **Vineet Yerramsett:** [vineety-cs](https://github.com/vineety-cs)
 
----
 
-## Project Deliverables
-
-1. **Technical Presentation:**  
-   [View Presentation](https://drive.google.com/file/d/1tRCHFX7j1RB0c2HsIGri8V7MsihUtOKu/view?usp=sharing)
-
-2. **Final Class Diagram:**  
-   Includes high-resolution `.asta` and image files.
 
 ---
 
