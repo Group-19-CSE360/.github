@@ -105,8 +105,8 @@ Upon launching the application, users can:
 **Team 19**
 
 - **James Hu** ([jameshu-asu](https://github.com/jameshu-asu))
-- **Jaya Adithya Pavuluri** ([jay2044](https://github.com/jay2044))
-- **Sahil Sinha** ([sayhilel](https://github.com/sayhilel))
+- **Jaya Adithya Pavuluri** (SCRUM Master) ([jay2044](https://github.com/jay2044))
+- **Sahil Sinha** (Team Leader) ([sayhilel](https://github.com/sayhilel))
 - **Shubham Khalkho** ([Shubhoom123](https://github.com/Shubhoom123))
 - **Vineet Yerramsett** ([vineety-cs](https://github.com/vineety-cs))
 
